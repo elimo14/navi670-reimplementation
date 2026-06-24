@@ -1,0 +1,26 @@
+# Dataset
+data/
+
+# Python virtual env
+gnss_env/
+venv/
+.venv/
+
+# Checkpoints
+checkpoints/
+checkpoints_dyncov/
+*.pt
+*.pth
+
+# VSCode
+.vscode/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
